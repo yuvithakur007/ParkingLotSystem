@@ -1,0 +1,14 @@
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\bin\Debug\net8.0\ParkingLotSystem.exe
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\bin\Debug\net8.0\ParkingLotSystem.deps.json
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\bin\Debug\net8.0\ParkingLotSystem.runtimeconfig.json
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\bin\Debug\net8.0\ParkingLotSystem.dll
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\bin\Debug\net8.0\ParkingLotSystem.pdb
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.AssemblyInfoInputs.cache
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.AssemblyInfo.cs
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.csproj.CoreCompileInputs.cache
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.dll
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\refint\ParkingLotSystem.dll
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.pdb
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ParkingLotSystem.genruntimeconfig.cache
+C:\Users\01yuv\OneDrive\Desktop\New folder\ParkingLotSystem\obj\Debug\net8.0\ref\ParkingLotSystem.dll
